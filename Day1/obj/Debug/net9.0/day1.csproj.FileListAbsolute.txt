@@ -1,0 +1,14 @@
+E:\slkdaytoday\day1\bin\Debug\net9.0\day1.exe
+E:\slkdaytoday\day1\bin\Debug\net9.0\day1.deps.json
+E:\slkdaytoday\day1\bin\Debug\net9.0\day1.runtimeconfig.json
+E:\slkdaytoday\day1\bin\Debug\net9.0\day1.dll
+E:\slkdaytoday\day1\bin\Debug\net9.0\day1.pdb
+E:\slkdaytoday\day1\obj\Debug\net9.0\day1.GeneratedMSBuildEditorConfig.editorconfig
+E:\slkdaytoday\day1\obj\Debug\net9.0\day1.AssemblyInfoInputs.cache
+E:\slkdaytoday\day1\obj\Debug\net9.0\day1.AssemblyInfo.cs
+E:\slkdaytoday\day1\obj\Debug\net9.0\day1.csproj.CoreCompileInputs.cache
+E:\slkdaytoday\day1\obj\Debug\net9.0\day1.dll
+E:\slkdaytoday\day1\obj\Debug\net9.0\refint\day1.dll
+E:\slkdaytoday\day1\obj\Debug\net9.0\day1.pdb
+E:\slkdaytoday\day1\obj\Debug\net9.0\day1.genruntimeconfig.cache
+E:\slkdaytoday\day1\obj\Debug\net9.0\ref\day1.dll
