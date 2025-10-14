@@ -5,7 +5,7 @@ namespace HelloWorldApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to .NET Full Stack Development!");
+            Console.WriteLine("Full Stack Development!");
         }
     }
 }
