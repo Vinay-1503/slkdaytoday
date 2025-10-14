@@ -12,3 +12,4 @@ E:\slkdaytoday\day1\obj\Debug\net9.0\refint\day1.dll
 E:\slkdaytoday\day1\obj\Debug\net9.0\day1.pdb
 E:\slkdaytoday\day1\obj\Debug\net9.0\day1.genruntimeconfig.cache
 E:\slkdaytoday\day1\obj\Debug\net9.0\ref\day1.dll
+E:\slkdaytoday\day1\obj\Debug\net9.0\day1.sourcelink.json
