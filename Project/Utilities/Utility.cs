@@ -34,7 +34,7 @@ namespace StudentScoreProject.Utilities
             }
 
             if (!found)
-                Console.WriteLine("No student found with that name.");
+                Console.WriteLine("No student fhat name.");
         }
     }
 }
